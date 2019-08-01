@@ -350,10 +350,10 @@
       </activation>
       <properties>
       <!-- Optional URL to server. Default value is http://localhost:9000 -->
-        <sonar.host.url>http://10.20.200.161:31186</sonar.host.url>
-        <sonar.projectName>jwkam/jpetstore-6</sonar.projectName>
+        <sonar.host.url>http://10.20.200.151:31111</sonar.host.url>
+        <sonar.projectName>sonar/demo</sonar.projectName>
       <!-- projectKey default <groupId>:<artifactId> -> ex : org.mybatis:jpetstore-->
-        <sonar.projectKey>jwkam:jpetstore</sonar.projectKey>             
+        <sonar.projectKey>sonar:demo</sonar.projectKey>             
       </properties>
     </profile>	           
     <!-- Profiles for JDK version -->
